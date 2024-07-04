@@ -1,0 +1,476 @@
+\glsdefs@newdocentry{lhc}%
+{%
+name={\acronymfont {\glsentryshort {lhc}}},%
+sort={LHC},%
+type={acronym},%
+first={LHC},%
+firstplural={LHCs},%
+text={LHC},%
+plural={LHCs},%
+description={Large Hadron Collider},%
+descriptionplural={Large Hadron Collider},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Large Hadron Collider},%
+longplural={Large Hadron Colliders},%
+short={LHC},%
+shortplural={LHCs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{cern}%
+{%
+name={\acronymfont {\glsentryshort {cern}}},%
+sort={CERN},%
+type={acronym},%
+first={CERN},%
+firstplural={CERNs},%
+text={CERN},%
+plural={CERNs},%
+description={European Organisation for Nuclear Research},%
+descriptionplural={European Organisation for Nuclear Research},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={European Organisation for Nuclear Research},%
+longplural={European Organisation for Nuclear Researchs},%
+short={CERN},%
+shortplural={CERNs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ps}%
+{%
+name={\acronymfont {\glsentryshort {ps}}},%
+sort={PS},%
+type={acronym},%
+first={PS},%
+firstplural={PSs},%
+text={PS},%
+plural={PSs},%
+description={Proton Synchrotron},%
+descriptionplural={Proton Synchrotron},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Proton Synchrotron},%
+longplural={Proton Synchrotrons},%
+short={PS},%
+shortplural={PSs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{psb}%
+{%
+name={\acronymfont {\glsentryshort {psb}}},%
+sort={PSB},%
+type={acronym},%
+first={PSB},%
+firstplural={PSBs},%
+text={PSB},%
+plural={PSBs},%
+description={Proton Synchrotron Booster},%
+descriptionplural={Proton Synchrotron Booster},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Proton Synchrotron Booster},%
+longplural={Proton Synchrotron Boosters},%
+short={PSB},%
+shortplural={PSBs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{sps}%
+{%
+name={\acronymfont {\glsentryshort {sps}}},%
+sort={SPS},%
+type={acronym},%
+first={SPS},%
+firstplural={SPSs},%
+text={SPS},%
+plural={SPSs},%
+description={Super Proton Synchrotron},%
+descriptionplural={Super Proton Synchrotron},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Super Proton Synchrotron},%
+longplural={Super Proton Synchrotrons},%
+short={SPS},%
+shortplural={SPSs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{sm}%
+{%
+name={\acronymfont {\glsentryshort {sm}}},%
+sort={SM},%
+type={acronym},%
+first={SM},%
+firstplural={SMs},%
+text={SM},%
+plural={SMs},%
+description={Standard Model},%
+descriptionplural={Standard Model},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Standard Model},%
+longplural={Standard Models},%
+short={SM},%
+shortplural={SMs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{bsm}%
+{%
+name={\acronymfont {\glsentryshort {bsm}}},%
+sort={BSM},%
+type={acronym},%
+first={BSM},%
+firstplural={BSMs},%
+text={BSM},%
+plural={BSMs},%
+description={Beyond the Standard Model},%
+descriptionplural={Beyond the Standard Model},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Beyond the Standard Model},%
+longplural={Beyond the Standard Models},%
+short={BSM},%
+shortplural={BSMs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{susy}%
+{%
+name={\acronymfont {\glsentryshort {susy}}},%
+sort={SUSY},%
+type={acronym},%
+first={SUSY},%
+firstplural={SUSYs},%
+text={SUSY},%
+plural={SUSYs},%
+description={Supersymmetry},%
+descriptionplural={Supersymmetry},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Supersymmetry},%
+longplural={Supersymmetrys},%
+short={SUSY},%
+shortplural={SUSYs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{dm}%
+{%
+name={\acronymfont {\glsentryshort {dm}}},%
+sort={DM},%
+type={acronym},%
+first={DM},%
+firstplural={DMs},%
+text={DM},%
+plural={DMs},%
+description={Dark Matter},%
+descriptionplural={Dark Matter},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dark Matter},%
+longplural={Dark Matters},%
+short={DM},%
+shortplural={DMs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{hllhc}%
+{%
+name={\acronymfont {\glsentryshort {hllhc}}},%
+sort={HL-LHC},%
+type={acronym},%
+first={HL-LHC},%
+firstplural={HL-LHCs},%
+text={HL-LHC},%
+plural={HL-LHCs},%
+description={High-Luminosity LHC},%
+descriptionplural={High-Luminosity LHC},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={High-Luminosity LHC},%
+longplural={High-Luminosity LHCs},%
+short={HL-LHC},%
+shortplural={HL-LHCs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{itk}%
+{%
+name={\acronymfont {\glsentryshort {itk}}},%
+sort={ITk},%
+type={acronym},%
+first={ITk},%
+firstplural={ITks},%
+text={ITk},%
+plural={ITks},%
+description={Inner Tracker},%
+descriptionplural={Inner Tracker},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Inner Tracker},%
+longplural={Inner Trackers},%
+short={ITk},%
+shortplural={ITks},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{2hdm}%
+{%
+name={\acronymfont {\glsentryshort {2hdm}}},%
+sort={2HDM},%
+type={acronym},%
+first={2HDM},%
+firstplural={2HDMs},%
+text={2HDM},%
+plural={2HDMs},%
+description={Two Higgs Doublet model},%
+descriptionplural={Two Higgs Doublet model},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Two Higgs Doublet model},%
+longplural={Two Higgs Doublet models},%
+short={2HDM},%
+shortplural={2HDMs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ls3}%
+{%
+name={\acronymfont {\glsentryshort {ls3}}},%
+sort={LS3},%
+type={acronym},%
+first={LS3},%
+firstplural={LS3s},%
+text={LS3},%
+plural={LS3s},%
+description={Long Shutdown 3},%
+descriptionplural={Long Shutdown 3},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Long Shutdown 3},%
+longplural={Long Shutdown 3s},%
+short={LS3},%
+shortplural={LS3s},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{bdt}%
+{%
+name={\acronymfont {\glsentryshort {bdt}}},%
+sort={BDT},%
+type={acronym},%
+first={BDT},%
+firstplural={BDTs},%
+text={BDT},%
+plural={BDTs},%
+description={Boosted Decision Tree},%
+descriptionplural={Boosted Decision Tree},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Boosted Decision Tree},%
+longplural={Boosted Decision Trees},%
+short={BDT},%
+shortplural={BDTs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{dnn}%
+{%
+name={\acronymfont {\glsentryshort {dnn}}},%
+sort={DNN},%
+type={acronym},%
+first={DNN},%
+firstplural={DNNs},%
+text={DNN},%
+plural={DNNs},%
+description={Deep Neural Network},%
+descriptionplural={Deep Neural Network},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Deep Neural Network},%
+longplural={Deep Neural Networks},%
+short={DNN},%
+shortplural={DNNs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{mc}%
+{%
+name={\acronymfont {\glsentryshort {mc}}},%
+sort={MC},%
+type={acronym},%
+first={MC},%
+firstplural={MCs},%
+text={MC},%
+plural={MCs},%
+description={Monte Carlo},%
+descriptionplural={Monte Carlo},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Monte Carlo},%
+longplural={Monte Carlos},%
+short={MC},%
+shortplural={MCs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{pv}%
+{%
+name={\acronymfont {\glsentryshort {pv}}},%
+sort={PV},%
+type={acronym},%
+first={PV},%
+firstplural={PVs},%
+text={PV},%
+plural={PVs},%
+description={Primary Vertex},%
+descriptionplural={Primary Vertex},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Primary Vertex},%
+longplural={Primary Vertexs},%
+short={PV},%
+shortplural={PVs},%
+counter={page},%
+parent={},%
+%
+}%
+

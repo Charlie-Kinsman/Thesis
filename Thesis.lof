@@ -1,0 +1,22 @@
+\babel@toc {english}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Figure the layout of the detectors of the Mu3e experiment in the $r-z$ plane, with an example of a $\mu ^{+}\xrightarrow {}e^{+}e^{+}e^{-}$ decay \cite {rudzki2021mu3e}.}}{4}{figure.caption.12}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Figure showing the dimensions of the stopping target. The upper image is from the $r-z$ plane, the lower from the $x-y$ plane. For the upper image the beam would be incident on the left side of the target \cite {Calibbi}.}}{5}{figure.caption.15}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Figure showing the pixel architecture for MuPix10 \cite {augustin2021mupix10}.}}{8}{figure.caption.21}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Figure visualising the tracking parameters associated with the circular fit in the x-y plane. Where $r$ denotes the radius of the arc, $c$ denotes the centre of the arc and $\Phi $ is the opening angle of the arc. \cite {berger2017new}.}}{9}{figure.caption.25}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Table showing the type of track produced by the modified reconstruction algorithm and what it can be used for.}}{13}{figure.caption.26}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Matching efficiency as a function of prop z.}}{14}{figure.caption.27}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Matching efficiency as a function of occupancy.}}{14}{figure.caption.28}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Matching efficiency as a function of momentum.}}{15}{figure.caption.29}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Matching efficiency as a function of momentum.}}{16}{figure.caption.30}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Matching efficiency as a function of momentum.}}{16}{figure.caption.31}%
+\contentsline {figure}{\numberline {11}{\ignorespaces 90\% hit efficiency heat maps.}}{17}{figure.caption.32}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Folded plot of 75\% hit efficiency.}}{17}{figure.caption.33}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Effect of 70\% efficiency.}}{18}{figure.caption.34}%
+\contentsline {figure}{\numberline {14}{\ignorespaces The above figures show the effect a given hit efficiency has on the reconstruction efficiency for tracks that are both 4 and 6 hits long. Hit efficiency is defined as the ratio between the number of hits recorded in the detector and the total number of Monte Carlo hits. Reconstruction is defined as the total number of tracks generated at a given hit efficiency divided by the number of tracks generated with 100\% hit efficiency.}}{20}{figure.caption.35}%
+\contentsline {figure}{\numberline {15}{\ignorespaces This might be a better flowchart.}}{21}{figure.caption.36}%
+\contentsline {figure}{\numberline {16}{\ignorespaces The above figures show the detector in the x-y plane with an example track superimposed over. In this, the above track is extended from a 'floating' 4-hit track to a 5-hit track. This is described as a floating 4-hit track as the track contains no hits in the innermost layer.}}{25}{figure.caption.37}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Figure showing the number of 5 hit tracks and the inefficient layer that they are attached to. The red bar shows the number of pure tracks and blue shows the total number of tracks.}}{26}{figure.caption.40}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Figure showing an example of the momentum resolution as a function of measured momentum.}}{27}{figure.caption.41}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Figure showing an example of the momentum resolution as a function of measured momentum.}}{28}{figure.caption.42}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Go figure.}}{28}{figure.caption.43}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Go figure.}}{28}{figure.caption.44}%

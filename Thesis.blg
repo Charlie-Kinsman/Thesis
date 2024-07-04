@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis.aux
+The style file: unsrt.bst
+Database file #1: ./chp/ref.bib
+Warning--empty journal in Calibbi
+Warning--empty year in Calibbi
+Warning--there's a number but no volume in kiselev2021meson
+Warning--empty institution in Arndt
+Warning--empty year in Arndt
+You've used 13 entries,
+            1791 wiz_defined-function locations,
+            523 strings with 8215 characters,
+and the built_in function-call counts, 4572 in all, are:
+= -- 221
+> -- 573
+< -- 1
++ -- 196
+- -- 183
+* -- 466
+:= -- 889
+add.period$ -- 38
+call.type$ -- 13
+change.case$ -- 14
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 125
+empty$ -- 251
+format.name$ -- 183
+if$ -- 874
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 12
+newline$ -- 67
+num.names$ -- 13
+pop$ -- 34
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 55
+stack$ -- 0
+substring$ -- 128
+swap$ -- 25
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 22
+width$ -- 15
+write$ -- 136
+(There were 5 warnings)

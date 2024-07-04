@@ -1,0 +1,67 @@
+\begin{thebibliography}{10}
+
+\bibitem{rudzki2021mu3e}
+Thomas Rudzki, Heiko Augustin, Marin Deflorin, Sebastian Dittmeier, Florian Frauen, David~Maximilian Immig, Dohun Kim, Frank~Meier Aeschbacher, Annie~Meneses Gonz{\'a}lez, Marius Menzel, et~al.
+\newblock The mu3e experiment: Toward the construction of an hv-maps vertex detector.
+\newblock {\em arXiv preprint arXiv:2106.03534}, 2021.
+
+\bibitem{Calibbi}
+Lorenzo Calibbi and Giovanni Signorelli.
+\newblock {Charged Lepton Flavour Violation: An Experimental and Theoretical Introduction}.
+
+\bibitem{augustin2021mupix10}
+Heiko Augustin, Niklaus Berger, Sebastian Dittmeier, David~Maximilian Immig, Dohun Kim, Lukas Mandok, Annie~Meneses Gonzalez, Marius Menzel, Lars Olivier~Sebastian Noehte, Ivan Peri{\'c}, et~al.
+\newblock Mupix10: first results from the final design.
+\newblock In {\em Proceedings of the 29th International Workshop on Vertex Detectors (VERTEX2020)}, page 010012, 2021.
+
+\bibitem{berger2017new}
+Niklaus Berger, Alexandr Kozlinskiy, Moritz Kiehn, and Andr{\'e} Sch{\"o}ning.
+\newblock A new three-dimensional track fit with multiple scattering.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}, 844:135--140, 2017.
+
+\bibitem{Kuno:1999jp}
+Yoshitaka Kuno and Yasuhiro Okada.
+\newblock {Muon decay and physics beyond the standard model}.
+\newblock {\em Rev. Mod. Phys.}, 73:151--202, 2001.
+
+\bibitem{kiselev2021meson}
+Daniela Kiselev, Pierre-Andr{\'e} Duperrex, Sven Jollet, Stefan Joray, Daniel Laube, Davide Reggiani, Raffaello Sobbia, and Vadim Talanov.
+\newblock The meson production targets in the high energy beamline of hipa at psi.
+\newblock {\em SciPost Physics Proceedings}, (5):003, 2021.
+
+\bibitem{berg2016target}
+F~Berg, Laurent Desorgher, Albert Fuchs, Wojtek Hajdas, Zachary Hodge, P-R Kettle, Andreas Knecht, Roland L{\"u}scher, Angela Papa, Giada Rutar, et~al.
+\newblock Target studies for surface muon production.
+\newblock {\em Physical Review Accelerators and Beams}, 19(2):024701, 2016.
+
+\bibitem{Arndt}
+K~Arndt, H~Augustin, P~Baesso, N~Berger, F~Berg, C~Betancourt, D~Bortoletto, A~Bravar, K~Briggl, D~{Vom Bruch}, A~Buonaura, F~Cadoux, C~{Chavez Barajas}, H~Chen, K~Clark, P~Cooke, S~Corrodi, A~Damyanova, Y~Demets, S~Dittmeier, P~Eckert, F~Ehrler, D~Fahrni, S~Gagneur, L~Gerritzen, J~Goldstein, D~Gottschalk, C~Grab, R~Gredig, A~Groves, J~Hammerich, U~Hartenstein, U~Hartmann, H~Hayward, A~Herkert, G~Hesketh, S~Hetzel, M~Hildebrandt, Z~Hodge, A~Hofer, Q~H Huang, S~Hughes, L~Huth, D~M Immig, T~Jones, M~Jones, H.-C K{\"{a}}stli, M~K{\"{o}}ppel, P.-R Kettle, M~Kiehn, S~Kilani, H~Klingenmeyer, A~Knecht, A~Knight, B~Kotlinski, A~Kozlinskiy, R~Leys, G~Lockwood, A~Loreti, D~La Marra, M~M{\"{u}}ller, B~Meier, F~{Meier Aeschbacher}, A~Meneses, K~Metodiev, A~Mtchedlishvili, S~Muley, Y~Munwes, L~O~S Noehte, P~Owen, A~Papa, I~Paraskevas, I~Peri{\'{c}}, A.-K Perrevoort, R~Plackett, M~Pohl, S~Ritt, P~Robmann, N~Rompotis, T~Rudzki, G~Rutar, A~Sch{\"{o}}ning, R~Schimassek, H.-C Schultz-Coulon, N~Serra, W~Shen, I~Shipsey, S~Shrestha, O~Steinkamp, A~Stoykov, U~Straumann, S~Streuli, K~Stumpf, N~Tata, J~Velthuis, L~Vigani, E~Vilella-Figueras, J~Vossebeld, R~Wallny, A~Wasili, F~Wauters, A~Weber Bj, D~Wiedner, B~Windelband, and T~Zhong.
+\newblock {Technical design of the phase I Mu3e experiment}.
+\newblock Technical report.
+
+\bibitem{bravar2022development}
+A~Bravar, A~Buonaura, S~Corrodi, A~Damyanova, Y~Demets, L~Gerritzen, Ch~Grab, C~Martin Perez, and A~Papa.
+\newblock Development of the scintillating fiber timing detector for the mu3e experiment.
+\newblock {\em arXiv preprint arXiv:2208.09906}, 2022.
+
+\bibitem{klingenmeyer2020measurements}
+Hannah Klingenmeyer, Yonathan Munwes, Konrad Briggl, Tiancheng Zhong, Huangshan Chen, Wei Shen, and Hans-Christian Schultz-Coulon.
+\newblock Measurements with the technical prototype for the mu3e tile detector.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}, 958:162852, 2020.
+
+\bibitem{schoning2020mupix}
+Andr{\'e} Sch{\"o}ning, J~Anders, H~Augustin, Mathieu Benoit, N~Berger, S~Dittmeier, F~Ehrler, A~Fehr, T~Golling, S~Gonzalez Sevilla, et~al.
+\newblock Mupix and atlaspix--architectures and results.
+\newblock {\em arXiv preprint arXiv:2002.07253}, 2020.
+
+\bibitem{MartinPerez2023}
+C.~{Mart{\'{i}}n P{\'{e}}rez}.
+\newblock {Search for the lepton flavor violating decay $\mu$ + → e + e - e + with the Mu3e experiment at PSI}.
+\newblock {\em Journal of Instrumentation}, 18(8), 2023.
+
+\bibitem{KARIMAKI1991187}
+V.~Karimäki.
+\newblock Effective circle fitting for particle trajectories.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}, 305(1):187--191, 1991.
+
+\end{thebibliography}

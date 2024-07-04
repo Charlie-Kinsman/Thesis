@@ -1,0 +1,97 @@
+\documentclass[twoside,11pt]{report}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[top=2.5cm, bottom=2.5cm, left=4.0cm, right=2.5cm]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage{xspace}
+%\usepackage[colorinlistoftodos]{todonotes}
+\usepackage[nottoc]{tocbibind}
+\usepackage{appendix}
+\usepackage{slashed}
+\usepackage{braket}
+%\usepackage{color, soul}
+%\usepackage{units}
+\usepackage{xcolor}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage[acronym]{glossaries}
+\usepackage{appendix}
+%\usepackage{utils/tikz-feynman}
+\usepackage{feynmp-auto}
+\usepackage{comment}
+\usepackage{lscape}
+\usepackage{placeins}
+\usepackage{url}
+\usepackage{tikz}
+\usepackage{cite}
+\usepackage{lineno}
+\usepackage[%  
+colorlinks=false,
+pdfborder={0 0 0},
+linkcolor=blue
+]{hyperref}
+\makeglossaries
+%%%%%%%%%%%%%%%%%%%%%%%%
+\numberwithin{equation}{section}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\renewcommand{\arraystretch}{1.25}
+\onehalfspacing
+%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+	\pagenumbering{roman}
+	\fancyhead{}
+	\input{./utils/commands.tex}
+	\input{./utils/glossary.tex}
+	\input{./utils/generators.tex}
+	\input{./chp/title.tex}
+	\input{./chp/abs.tex}
+	\input{./chp/dec.tex}
+	\input{./chp/ack.tex}
+	%---------------------------------------------------
+	\newpage
+	\tableofcontents
+	%---------------------------------------------------
+	\newpage
+	\listoffigures
+	\listoftables
+	%---------------------------------------------------
+	\newpage
+	%\linenumbers
+	\fancyhead[RO,LE]{\changefont }
+	\fancyhead[RE,LO]{\changefont \leftmark}
+	\pagenumbering{arabic}
+	\addcontentsline{toc}{chapter}{Introduction}
+	%\input{./chp/intro.tex}
+	\part{Theoretical/Experimental}
+	\input{./chp/theory.tex}
+        \part{Experimental Setup}
+        \input{chp/setup}
+	%---------------------------------------------------
+	%\part{Analyses}
+	%\input{./chp/analyses.tex}
+        \part{Silicon Hit Efficiency Study}
+        \input{./chp/Efficiency.tex}
+        \part{Alternative Tracking Algorithm}
+        \input{./chp/Tracking.tex}
+	%---------------------------------------------------
+	\part{Extra}
+	%\input{./chp/extra.tex}
+	%---------------------------------------------------
+	%\newpage
+	%\printglossary[type=\acronymtype, nonumberlist]
+	\newpage
+	\begin{appendices}
+	\input{./chp/app_one.tex}
+	%\input{./chp/app_two.tex}
+	\end{appendices}	
+	\bibliographystyle{unsrt}
+	\bibliography{./chp/ref}
+	%---------------------------------------------------
+\end{document}

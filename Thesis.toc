@@ -1,0 +1,37 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{List of Figures}{ix}{chapter*.5}%
+\contentsline {chapter}{List of Tables}{xi}{chapter*.6}%
+\contentsline {chapter}{Introduction}{1}{chapter*.6}%
+\contentsline {part}{I\hspace {1em}Theoretical/Experimental}{1}{part.1}%
+\contentsline {part}{II\hspace {1em}Experimental Setup}{3}{part.2}%
+\contentsline {paragraph}{}{4}{section*.14}%
+\contentsline {paragraph}{}{7}{section*.22}%
+\contentsline {part}{III\hspace {1em}Silicon Hit Efficiency Study}{10}{part.3}%
+\contentsline {section}{\numberline {0.1}Motivation}{11}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Silicon Hit Inefficiency}{11}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Ordering of the Algorithm}{11}{section.0.3}%
+\contentsline {section}{\numberline {0.4}Matching Algorithm}{12}{section.0.4}%
+\contentsline {section}{\numberline {0.5}Z and $\phi $ Range}{13}{section.0.5}%
+\contentsline {section}{\numberline {0.6}Efficiency Heat Maps}{15}{section.0.6}%
+\contentsline {section}{\numberline {0.7}Calculation of Hit Efficiency}{15}{section.0.7}%
+\contentsline {section}{\numberline {0.8}Effect of Efficiency on Chi Squared Distribution}{18}{section.0.8}%
+\contentsline {part}{IV\hspace {1em}Alternative Tracking Algorithm}{19}{part.4}%
+\contentsline {section}{\numberline {0.9}Motivation}{20}{section.0.9}%
+\contentsline {section}{\numberline {0.10}Ordering of the Algorithm}{20}{section.0.10}%
+\contentsline {subsection}{\numberline {0.10.1}Initial Triplets}{21}{subsection.0.10.1}%
+\contentsline {subsection}{\numberline {0.10.2}Dividing Triplets into Smaller Ranges}{22}{subsection.0.10.2}%
+\contentsline {subsection}{\numberline {0.10.3}Connect Triplets to the Layer 2 Triplets}{22}{subsection.0.10.3}%
+\contentsline {subsection}{\numberline {0.10.4}Connect the Triplets into 4 Hit Segments Before and After Layer 2}{23}{subsection.0.10.4}%
+\contentsline {subsection}{\numberline {0.10.5}Connect the 4 Hit Tracks to 6 Hit Tracks}{23}{subsection.0.10.5}%
+\contentsline {subsection}{\numberline {0.10.6}Combine 6 Hit Tracks into 8 Hit Tracks}{23}{subsection.0.10.6}%
+\contentsline {section}{\numberline {0.11}Identification of Inefficiency}{23}{section.0.11}%
+\contentsline {section}{\numberline {0.12}Generating 5 Hit Tracks}{23}{section.0.12}%
+\contentsline {subsection}{\numberline {0.12.1}Selection Cuts Applied to the 5 Hit Tracks}{24}{subsection.0.12.1}%
+\contentsline {subsubsection}{$\chi ^{2}$ Minimisation}{24}{section*.38}%
+\contentsline {subsubsection}{Propagation Cut}{25}{section*.39}%
+\contentsline {subsection}{\numberline {0.12.2}Effect on the Purity}{25}{subsection.0.12.2}%
+\contentsline {section}{\numberline {0.13}Validity of the 5 Hit Tracks}{25}{section.0.13}%
+\contentsline {subsection}{\numberline {0.13.1}Momentum Resolution}{26}{subsection.0.13.1}%
+\contentsline {section}{\numberline {0.14}Effect of Alternative Tracking}{27}{section.0.14}%
+\contentsline {part}{V\hspace {1em}Extra}{29}{part.5}%
+\contentsline {chapter}{Bibliography}{31}{appendix*.45}%
