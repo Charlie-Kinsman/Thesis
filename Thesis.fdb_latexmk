@@ -1,21 +1,21 @@
 # Fdb version 4
-["bibtex Thesis"] 1720082704.61801 "Thesis.aux" "Thesis.bbl" "Thesis" 1720082711.08441 0
-  "./chp/ref.bib" 1713969837 16656 8572068395b38e1e8e5f0ef7b3b7e699 ""
-  "Thesis.aux" 1720082709 16148 dc934dcd5486d03a052621be5e8c5f3b "pdflatex"
+["bibtex Thesis"] 1721696419.96158 "Thesis.aux" "Thesis.bbl" "Thesis" 1721696425.72958 0
+  "./chp/ref.bib" 1721659376 16870 0b605b94d1af23101d596a6bb453b97e ""
+  "Thesis.aux" 1721696424 16765 6790cc265305a2be90c2a1d3e0bfd30f "pdflatex"
   "c:/texlive/2024/texmf-dist/bibtex/bst/base/unsrt.bst" 1713359281 18030 1376b4b231b50c66211e47e42eda2875 ""
   (generated)
   "Thesis.bbl"
   "Thesis.blg"
   (rewritten before read)
-["pdflatex"] 1720082705.4476 "c:/Users/ckinsman/Documents/Research/Written Stuff/Thesis/Thesis.tex" "Thesis.pdf" "Thesis" 1720082711.08525 0
-  "Thesis.aux" 1720082709 16148 dc934dcd5486d03a052621be5e8c5f3b "pdflatex"
-  "Thesis.bbl" 1720082705 4908 0560664f1d5d2446134247723e7329c4 "bibtex Thesis"
-  "Thesis.glsdefs" 1720082709 8395 01814b836fcbf995b69f4542c3eb0201 "pdflatex"
-  "Thesis.lof" 1720082709 3969 2576eca011b6b30fcf6af27c3bda1615 "pdflatex"
-  "Thesis.lot" 1720082709 30 283c90c47f0e16887e96cec4ba110f76 "pdflatex"
-  "Thesis.out" 1720082709 6160 854d81fbef3a3e1e9e547b2b4aa09d8a "pdflatex"
+["pdflatex"] 1721696420.94428 "c:/Users/ckinsman/Documents/Research/Written Stuff/Thesis/Thesis.tex" "Thesis.pdf" "Thesis" 1721696425.73034 0
+  "Thesis.aux" 1721696424 16765 6790cc265305a2be90c2a1d3e0bfd30f "pdflatex"
+  "Thesis.bbl" 1721696420 5096 631036b1bfefc90fd56ff848713aa49a "bibtex Thesis"
+  "Thesis.glsdefs" 1721696424 8395 01814b836fcbf995b69f4542c3eb0201 "pdflatex"
+  "Thesis.lof" 1721696424 4105 6d8621a3a4303bab9042fe131fd6d3f0 "pdflatex"
+  "Thesis.lot" 1721696424 30 283c90c47f0e16887e96cec4ba110f76 "pdflatex"
+  "Thesis.out" 1721696424 6524 33a646c9d3603823e4b26a23a3a92759 "pdflatex"
   "Thesis.tex" 1713795239 2593 0a302d11742b998bbaad659eb5c8c2ad ""
-  "Thesis.toc" 1720082709 3019 251c445121616c8ce529ddcce35d1fcf "pdflatex"
+  "Thesis.toc" 1721696424 3211 7e9757628a433bb9321a4f151e27d041 "pdflatex"
   "c:/Users/ckinsman/Documents/Research/Written Stuff/Thesis/Thesis.tex" 1713795239 2593 0a302d11742b998bbaad659eb5c8c2ad ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1713360049 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1713362308 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -251,7 +251,7 @@
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1713370190 8222499 08acff5d29d48367ba40d6ed7dee920d ""
   "c:/texlive/2024/texmf.cnf" 1713369981 713 e69b156964470283e0530f5060668171 ""
   "chp/Efficiency.tex" 1720080052 11083 d0a6b5dfa6e784f456157b86bedc1ae8 ""
-  "chp/Tracking.tex" 1720082698 18866 2c01c67a07981e4ce75f9094f0bce1f0 ""
+  "chp/Tracking.tex" 1721696424 19788 a759e17134518da61e23d90ff59ccf39 ""
   "chp/abs.tex" 1713795239 66 a9d52fb2965321779a93b7eecdbd70fc ""
   "chp/ack.tex" 1713795239 145 c5a708a77e98904fae7920985d983c0d ""
   "chp/app_one.tex" 1713795239 12 5580960222d548fb16365bfe6d9bc419 ""
@@ -278,6 +278,7 @@
   "fig/tracking/bending.PNG" 1719969737 33459 203fb1cd51f7643cd5b3d282a977c247 ""
   "fig/tracking/flow.png" 1717776979 24805 d9329e10ccd28ed2d1aa51d88cef6002 ""
   "fig/tracking/l.jpeg" 1717775255 14187 a15c312e868492a1edfb6f3baac03b10 ""
+  "fig/tracking/mass_cut.jpeg" 1721696391 30365 f714bbe456de1d0d83b0f87fcba34ee1 ""
   "fig/tracking/s4.png" 1717769361 43808 37508ac2f8ce2031afbcf2a1f04feb98 ""
   "fig/tracking/s5.png" 1717769426 44518 9ca86481d734dc60551b6b9c5b4eca28 ""
   "fig/tracking/test_eff.png" 1717721861 45061 ff7699d98d6b17805528714cb3d7b27b ""

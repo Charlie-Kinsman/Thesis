@@ -8,45 +8,45 @@ Warning--empty year in Calibbi
 Warning--there's a number but no volume in kiselev2021meson
 Warning--empty institution in Arndt
 Warning--empty year in Arndt
-You've used 13 entries,
+You've used 14 entries,
             1791 wiz_defined-function locations,
-            523 strings with 8215 characters,
-and the built_in function-call counts, 4572 in all, are:
-= -- 221
-> -- 573
+            527 strings with 8362 characters,
+and the built_in function-call counts, 4745 in all, are:
+= -- 233
+> -- 587
 < -- 1
-+ -- 196
-- -- 183
-* -- 466
-:= -- 889
-add.period$ -- 38
-call.type$ -- 13
-change.case$ -- 14
++ -- 201
+- -- 187
+* -- 476
+:= -- 922
+add.period$ -- 41
+call.type$ -- 14
+change.case$ -- 15
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 125
-empty$ -- 251
-format.name$ -- 183
-if$ -- 874
+cite$ -- 19
+duplicate$ -- 133
+empty$ -- 265
+format.name$ -- 187
+if$ -- 910
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 12
-newline$ -- 67
-num.names$ -- 13
-pop$ -- 34
+int.to.str$ -- 14
+missing$ -- 13
+newline$ -- 72
+num.names$ -- 14
+pop$ -- 37
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 55
+skip$ -- 58
 stack$ -- 0
 substring$ -- 128
-swap$ -- 25
+swap$ -- 26
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 5
-while$ -- 22
-width$ -- 15
-write$ -- 136
+while$ -- 23
+width$ -- 16
+write$ -- 146
 (There were 5 warnings)

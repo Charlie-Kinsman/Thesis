@@ -33,5 +33,7 @@
 \contentsline {section}{\numberline {0.13}Validity of the 5 Hit Tracks}{25}{section.0.13}%
 \contentsline {subsection}{\numberline {0.13.1}Momentum Resolution}{26}{subsection.0.13.1}%
 \contentsline {section}{\numberline {0.14}Effect of Alternative Tracking}{27}{section.0.14}%
-\contentsline {part}{V\hspace {1em}Extra}{29}{part.5}%
-\contentsline {chapter}{Bibliography}{31}{appendix*.45}%
+\contentsline {subsection}{\numberline {0.14.1}Reconstruction Efficiency}{29}{subsection.0.14.1}%
+\contentsline {subsection}{\numberline {0.14.2}Vertex Reconstruction}{29}{subsection.0.14.2}%
+\contentsline {part}{V\hspace {1em}Extra}{30}{part.5}%
+\contentsline {chapter}{Bibliography}{32}{appendix*.46}%

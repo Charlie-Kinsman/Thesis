@@ -64,4 +64,9 @@ V.~Karimäki.
 \newblock Effective circle fitting for particle trajectories.
 \newblock {\em Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}, 305(1):187--191, 1991.
 
+\bibitem{hesketh2022mu3e}
+Gavin Hesketh, Sean Hughes, Ann-Kathrin Perrevoort, and Nikolaos Rompotis.
+\newblock The mu3e experiment.
+\newblock {\em arXiv preprint arXiv:2204.00001}, 2022.
+
 \end{thebibliography}

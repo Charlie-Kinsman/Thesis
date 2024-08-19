@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.17)  4 JUL 2024 09:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.17)  23 JUL 2024 02:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -830,7 +830,7 @@ Package hyperref Info: Link coloring OFF on input line 47.
 Package glossaries Warning: Entry `lhc' has already been defined in the document environment (ignoring new definition) on input line 10.
 
 ) (./utils/generators.tex) (./chp/title.tex
-<./fig/title/logo.png, id=134, 444.9423pt x 181.6386pt>
+<./fig/title/logo.png, id=142, 444.9423pt x 181.6386pt>
 File: ./fig/title/logo.png Graphic file (type png)
 <use ./fig/title/logo.png>
 Package pdftex.def Info: ./fig/title/logo.png  used on input line 12.
@@ -879,13 +879,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 ] (./chp/theory.tex) [2] [3
 
 ] (./chp/setup.tex
-<fig/setup/det.PNG, id=318, 794.36775pt x 204.765pt>
+<fig/setup/det.PNG, id=331, 794.36775pt x 204.765pt>
 File: fig/setup/det.PNG Graphic file (type png)
 <use fig/setup/det.PNG>
 Package pdftex.def Info: fig/setup/det.PNG  used on input line 6.
 (pdftex.def)             Requested size: 429.3521pt x 110.67455pt.
  [4 <./fig/setup/det.PNG>]
-<fig/setup/stop.PNG, id=341, 387.849pt x 290.88675pt>
+<fig/setup/stop.PNG, id=353, 387.849pt x 290.88675pt>
 File: fig/setup/stop.PNG Graphic file (type png)
 <use fig/setup/stop.PNG>
 Package pdftex.def Info: fig/setup/stop.PNG  used on input line 19.
@@ -894,13 +894,13 @@ Package pdftex.def Info: fig/setup/stop.PNG  used on input line 19.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5 <./fig/setup/stop.PNG>] [6]
-<fig/setup/pix.PNG, id=369, 564.9105pt x 195.129pt>
+<fig/setup/pix.PNG, id=381, 564.9105pt x 195.129pt>
 File: fig/setup/pix.PNG Graphic file (type png)
 <use fig/setup/pix.PNG>
 Package pdftex.def Info: fig/setup/pix.PNG  used on input line 58.
 (pdftex.def)             Requested size: 429.3521pt x 148.30553pt.
  [7] [8 <./fig/setup/pix.PNG>]
-<fig/tracking/bending.PNG, id=399, 372.1905pt x 213.1965pt>
+<fig/tracking/bending.PNG, id=411, 372.1905pt x 213.1965pt>
 File: fig/tracking/bending.PNG Graphic file (type png)
 <use fig/tracking/bending.PNG>
 Package pdftex.def Info: fig/tracking/bending.PNG  used on input line 97.
@@ -929,22 +929,22 @@ Overfull \hbox (65.76268pt too wide) in paragraph at lines 89--90
  []
 
 [12]
-<fig/match/Capture.PNG, id=422, 669.702pt x 236.68425pt>
+<fig/match/Capture.PNG, id=434, 669.702pt x 236.68425pt>
 File: fig/match/Capture.PNG Graphic file (type png)
 <use fig/match/Capture.PNG>
 Package pdftex.def Info: fig/match/Capture.PNG  used on input line 104.
 (pdftex.def)             Requested size: 401.8243pt x 142.01164pt.
-<fig/match/prop_z_eff.jpeg, id=423, 698.61pt x 473.77pt>
+<fig/match/prop_z_eff.jpeg, id=435, 698.61pt x 473.77pt>
 File: fig/match/prop_z_eff.jpeg Graphic file (type jpg)
 <use fig/match/prop_z_eff.jpeg>
 Package pdftex.def Info: fig/match/prop_z_eff.jpeg  used on input line 110.
 (pdftex.def)             Requested size: 419.16924pt x 284.26419pt.
-<fig/match/effic_nhit.jpeg, id=424, 698.61pt x 473.77pt>
+<fig/match/effic_nhit.jpeg, id=436, 698.61pt x 473.77pt>
 File: fig/match/effic_nhit.jpeg Graphic file (type jpg)
 <use fig/match/effic_nhit.jpeg>
 Package pdftex.def Info: fig/match/effic_nhit.jpeg  used on input line 116.
 (pdftex.def)             Requested size: 419.16924pt x 284.26419pt.
-<fig/match/effic_p.jpeg, id=425, 698.61pt x 473.77pt>
+<fig/match/effic_p.jpeg, id=437, 698.61pt x 473.77pt>
 File: fig/match/effic_p.jpeg Graphic file (type jpg)
 <use fig/match/effic_p.jpeg>
 Package pdftex.def Info: fig/match/effic_p.jpeg  used on input line 122.
@@ -962,29 +962,29 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 126.
 
-<fig/match/position.jpeg, id=426, 698.61pt x 473.77pt>
+<fig/match/position.jpeg, id=438, 698.61pt x 473.77pt>
 File: fig/match/position.jpeg Graphic file (type jpg)
 <use fig/match/position.jpeg>
 Package pdftex.def Info: fig/match/position.jpeg  used on input line 130.
 (pdftex.def)             Requested size: 419.16924pt x 284.26419pt.
-<fig/match/position_phi.jpeg, id=427, 698.61pt x 473.77pt>
+<fig/match/position_phi.jpeg, id=439, 698.61pt x 473.77pt>
 File: fig/match/position_phi.jpeg Graphic file (type jpg)
 <use fig/match/position_phi.jpeg>
 Package pdftex.def Info: fig/match/position_phi.jpeg  used on input line 136.
 (pdftex.def)             Requested size: 419.16924pt x 284.26419pt.
 [13 <./fig/match/Capture.PNG>] [14 <./fig/match/prop_z_eff.jpeg> <./fig/match/effic_nhit.jpeg>]
-<fig/eff/final_eff.jpeg, id=439, 698.61pt x 473.77pt>
+<fig/eff/final_eff.jpeg, id=451, 698.61pt x 473.77pt>
 File: fig/eff/final_eff.jpeg Graphic file (type jpg)
 <use fig/eff/final_eff.jpeg>
 Package pdftex.def Info: fig/eff/final_eff.jpeg  used on input line 151.
 (pdftex.def)             Requested size: 419.16924pt x 284.26419pt.
-<fig/eff/folded_75.jpeg, id=440, 698.61pt x 473.77pt>
+<fig/eff/folded_75.jpeg, id=452, 698.61pt x 473.77pt>
 File: fig/eff/folded_75.jpeg Graphic file (type jpg)
 <use fig/eff/folded_75.jpeg>
 Package pdftex.def Info: fig/eff/folded_75.jpeg  used on input line 157.
 (pdftex.def)             Requested size: 419.16924pt x 284.26419pt.
  [15 <./fig/match/effic_p.jpeg>] [16 <./fig/match/position.jpeg> <./fig/match/position_phi.jpeg>] [17 <./fig/eff/final_eff.jpeg> <./fig/eff/folded_75.jpeg>]
-<fig/eff/chi2.jpeg, id=455, 698.61pt x 473.77pt>
+<fig/eff/chi2.jpeg, id=467, 698.61pt x 473.77pt>
 File: fig/eff/chi2.jpeg Graphic file (type jpg)
 <use fig/eff/chi2.jpeg>
 Package pdftex.def Info: fig/eff/chi2.jpeg  used on input line 183.
@@ -996,17 +996,17 @@ Package pdftex.def Info: fig/eff/chi2.jpeg  used on input line 183.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-<fig/eff/4.png, id=466, 651.93562pt x 406.51875pt>
+<fig/eff/4.png, id=478, 651.93562pt x 406.51875pt>
 File: fig/eff/4.png Graphic file (type png)
 <use fig/eff/4.png>
 Package pdftex.def Info: fig/eff/4.png  used on input line 15.
 (pdftex.def)             Requested size: 195.58218pt x 121.95656pt.
-<fig/eff/6.png, id=467, 651.93562pt x 406.51875pt>
+<fig/eff/6.png, id=479, 651.93562pt x 406.51875pt>
 File: fig/eff/6.png Graphic file (type png)
 <use fig/eff/6.png>
 Package pdftex.def Info: fig/eff/6.png  used on input line 21.
 (pdftex.def)             Requested size: 195.58218pt x 121.95656pt.
-<fig/tracking/flow.png, id=468, 775.698pt x 239.6955pt>
+<fig/tracking/flow.png, id=480, 775.698pt x 239.6955pt>
 File: fig/tracking/flow.png Graphic file (type png)
 <use fig/tracking/flow.png>
 Package pdftex.def Info: fig/tracking/flow.png  used on input line 40.
@@ -1026,47 +1026,55 @@ Overfull \hbox (175.19476pt too wide) in paragraph at lines 87--88
 Underfull \vbox (badness 1184) has occurred while \output is active []
 
  [22] [23]
-<fig/tracking/s4.png, id=500, 499.8675pt x 499.8675pt>
+<fig/tracking/s4.png, id=512, 499.8675pt x 499.8675pt>
 File: fig/tracking/s4.png Graphic file (type png)
 <use fig/tracking/s4.png>
 Package pdftex.def Info: fig/tracking/s4.png  used on input line 205.
 (pdftex.def)             Requested size: 161.00702pt x 161.00581pt.
-<fig/tracking/s5.png, id=501, 499.8675pt x 499.8675pt>
+<fig/tracking/s5.png, id=513, 499.8675pt x 499.8675pt>
 File: fig/tracking/s5.png Graphic file (type png)
 <use fig/tracking/s5.png>
 Package pdftex.def Info: fig/tracking/s5.png  used on input line 211.
 (pdftex.def)             Requested size: 161.00702pt x 161.00581pt.
  [24]
-<fig/tracking/l.jpeg, id=507, 698.61pt x 473.77pt>
+<fig/tracking/l.jpeg, id=519, 698.61pt x 473.77pt>
 File: fig/tracking/l.jpeg Graphic file (type jpg)
 <use fig/tracking/l.jpeg>
 Package pdftex.def Info: fig/tracking/l.jpeg  used on input line 231.
 (pdftex.def)             Requested size: 349.30414pt x 236.88441pt.
  [25 <./fig/tracking/s4.png> <./fig/tracking/s5.png>]
-<fig/tracking/2dres.jpeg, id=518, 698.61pt x 473.77pt>
+<fig/tracking/2dres.jpeg, id=530, 698.61pt x 473.77pt>
 File: fig/tracking/2dres.jpeg Graphic file (type jpg)
 <use fig/tracking/2dres.jpeg>
 Package pdftex.def Info: fig/tracking/2dres.jpeg  used on input line 261.
 (pdftex.def)             Requested size: 349.30414pt x 236.88441pt.
  [26 <./fig/tracking/l.jpeg>]
-<fig/tracking/total_res_alt.jpeg, id=527, 698.61pt x 473.77pt>
+<fig/tracking/total_res_alt.jpeg, id=539, 698.61pt x 473.77pt>
 File: fig/tracking/total_res_alt.jpeg Graphic file (type jpg)
 <use fig/tracking/total_res_alt.jpeg>
 Package pdftex.def Info: fig/tracking/total_res_alt.jpeg  used on input line 277.
 (pdftex.def)             Requested size: 349.30414pt x 236.88441pt.
-<fig/tracking/test_eff.png, id=528, 481.8pt x 300.3722pt>
+<fig/tracking/test_eff.png, id=540, 481.8pt x 300.3722pt>
 File: fig/tracking/test_eff.png Graphic file (type png)
 <use fig/tracking/test_eff.png>
-Package pdftex.def Info: fig/tracking/test_eff.png  used on input line 291.
+Package pdftex.def Info: fig/tracking/test_eff.png  used on input line 292.
 (pdftex.def)             Requested size: 240.8994pt x 150.18571pt.
-<fig/tracking/test_eff3.png, id=529, 439.6425pt x 274.02374pt>
+<fig/tracking/test_eff3.png, id=541, 439.6425pt x 274.02374pt>
 File: fig/tracking/test_eff3.png Graphic file (type png)
 <use fig/tracking/test_eff3.png>
-Package pdftex.def Info: fig/tracking/test_eff3.png  used on input line 297.
+Package pdftex.def Info: fig/tracking/test_eff3.png  used on input line 298.
 (pdftex.def)             Requested size: 219.82071pt x 137.01154pt.
-) [27 <./fig/tracking/2dres.jpeg>] [28 <./fig/tracking/total_res_alt.jpeg> <./fig/tracking/test_eff.png> <./fig/tracking/test_eff3.png>] [29
+<fig/tracking/mass_cut.jpeg, id=543, 698.61pt x 473.77pt>
+File: fig/tracking/mass_cut.jpeg Graphic file (type jpg)
+<use fig/tracking/mass_cut.jpeg>
+Package pdftex.def Info: fig/tracking/mass_cut.jpeg  used on input line 310.
+(pdftex.def)             Requested size: 349.30414pt x 236.88441pt.
+)
+Underfull \vbox (badness 4660) has occurred while \output is active []
 
-] (./chp/app_one.tex) (./Thesis.bbl [30] [31
+ [27 <./fig/tracking/2dres.jpeg>] [28 <./fig/tracking/total_res_alt.jpeg> <./fig/tracking/test_eff.png> <./fig/tracking/test_eff3.png>] [29 <./fig/tracking/mass_cut.jpeg>] [30
+
+] (./chp/app_one.tex) (./Thesis.bbl [31] [32
 
 ])
 
@@ -1074,7 +1082,7 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-[32] (./Thesis.aux)
+[33] (./Thesis.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -1084,25 +1092,25 @@ L3 programming layer <2024-03-14>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 854D81FBEF3A3E1E9E547B2B4AA09D8A;6160.
+(rerunfilecheck)             Checksum: 33A646C9D3603823E4B26A23A3A92759;6524.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 3 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33693 strings out of 474103
- 629394 string characters out of 5747481
+ 33709 strings out of 474103
+ 629769 string characters out of 5747481
  1945496 words of memory out of 5000000
- 55329 multiletter control sequences out of 15000+600000
+ 55340 multiletter control sequences out of 15000+600000
  569085 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,16n,93p,2406b,1624s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on Thesis.pdf (43 pages, 882893 bytes).
+Output written on Thesis.pdf (44 pages, 915487 bytes).
 PDF statistics:
- 668 PDF objects out of 1000 (max. 8388607)
- 542 compressed objects within 6 object streams
- 136 named destinations out of 1000 (max. 500000)
- 389 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 688 PDF objects out of 1000 (max. 8388607)
+ 560 compressed objects within 6 object streams
+ 141 named destinations out of 1000 (max. 500000)
+ 410 words of extra memory for PDF output out of 10000 (max. 10000000)
 
